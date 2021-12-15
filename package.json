@@ -4,6 +4,7 @@
   "license": "MIT",
   "author": "Cody Olsen <stipsan@gmail.com>",
   "homepage": "https://github.com/stipsan/ioredis-mock#readme",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stipsan/ioredis-mock.git"
